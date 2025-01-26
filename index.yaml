@@ -3,7 +3,17 @@ entries:
   first-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-26T11:48:59.080644611Z"
+    created: "2025-01-26T12:00:48.627847583Z"
+    description: A Helm chart for Kubernetes
+    digest: 4ff3f4dd0eec62f63f939d0343ab4830a53bed951f4ef965561112b005ff1d1f
+    name: first-app
+    type: application
+    urls:
+    - https://alex-agd.github.io/helm-test/helm-releases/first-app-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-26T12:00:48.624254142Z"
     description: A Helm chart for Kubernetes
     digest: 4db57b603013f997c700ab31da210e004a94ce989773e4eb899bc44e39812a76
     name: first-app
@@ -13,7 +23,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-26T11:48:59.075220455Z"
+    created: "2025-01-26T12:00:48.621127818Z"
     description: A Helm chart for Kubernetes
     digest: 311e7a1d7c1b749bb1b50855df3a2fcbe8ef91e0650aa4f3b71a469de46c8577
     name: first-app
@@ -23,7 +33,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-26T11:48:59.071440233Z"
+    created: "2025-01-26T12:00:48.617588502Z"
     description: A Helm chart for Kubernetes
     digest: cdf47a0e0528f02ed8d99906c693721b86b322f22953fbd8caecefb440f5a56a
     name: first-app
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://alex-agd.github.io/helm-test/helm-releases/first-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-26T11:48:59.067244134Z"
+generated: "2025-01-26T12:00:48.614169733Z"
